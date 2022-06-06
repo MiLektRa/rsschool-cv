@@ -1,1 +1,1 @@
-https://github.com/MiLektRa/rsschool-cv
+https://MiLektRa.github.io/rsschool-cv/cv
