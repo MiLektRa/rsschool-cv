@@ -1,3 +1,1 @@
-# rsschool-cv
-new information
-additional information
+https://github.com/MiLektRa/rsschool-cv
