@@ -1,0 +1,33 @@
+body {font-family: 'Joan', serif;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+}
+
+.my-profile {
+    position: relative;
+}
+.my-profile h1 {
+    text-align: center;
+   }
+.my-profile img {
+    border-radius: 200px;
+    height: 20rem; 
+}
+ul {list-style-type: none;}
+.contacts ul li img {
+    height: 2rem;
+}
+.container {color: white;
+}
+.container img {height:2rem;
+}
+.cv {display:grid;
+     grid-template-columns: 40% 1fr;
+    grid-gap: 4rem;
+    background-color: white;
+    padding: 4rem;
+    max-width: 1000px;
+    margin: auto;
+};
+.nav-item {color: white;
+}
